@@ -1,0 +1,126 @@
+body{
+    width: 99%;
+    background: #8F90B8;
+}
+
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+
+blockquote{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+.Tl{
+    color: blue;
+    
+    padding: 5px 30px;
+}
+
+
+header{
+    
+    height: 120px;
+    display: block;
+    background: whitesmoke;
+    font-family: 'Oswald', sans-serif
+    
+}
+footer{
+    clear: both;
+    text-align: center;
+    background: whitesmoke;
+}
+article{
+    width: 61%;
+    float: left;
+    margin: 2%;
+    
+}
+aside{
+    width: 27%;
+    margin: 3% 3%;
+    float: right;
+    background: orange;
+    color: white;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+}
+#Logo{
+    width: 100px;
+    float: right;
+    margin:17px 80px;
+    
+    
+    
+}
+#Casa{
+   
+    width: 35px;
+
+}
+#libro{
+    width: 200px;
+    margin: 10px auto;
+    display: block;
+    
+
+}
+.Menu{
+    margin: 3% ;
+    height: 35px;
+    
+    display: block;
+    
+}
+.Menu2{
+    margin: 3%;
+    text-align: center;
+    
+    height: 35px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.Menu li{
+
+    display: inline;
+    list-style: none;
+    margin: 20px 40px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background: darkblue;
+    
+    
+    
+    
+
+}
+.Menu2 li{
+
+    display: inline;
+    list-style: none;
+    padding: 12px;
+    margin: 5%;
+    background: blue;
+    color: white;
+    border: solid 1px white;
+    
+    
+
+}
+
+
+
+
+.libro{
+    width: 500px;
+}
