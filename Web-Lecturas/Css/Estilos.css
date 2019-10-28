@@ -1,12 +1,25 @@
 body{
     width: 99%;
-    background: #8F90B8;
+    background: #524D81;
 }
 
+h1, h2{
+    font-family: 'Ubuntu', sans-serif;
+    color: white
+}
 h3{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    background: darkblue;
+    width: 99%;
+    padding: 10px;
 }
-
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
 blockquote{
     color: white;
     font-family: 'Roboto Slab', serif;
@@ -30,6 +43,10 @@ footer{
     clear: both;
     text-align: center;
     background: whitesmoke;
+    
+}
+.ft{
+    color: darkblue;
 }
 article{
     width: 61%;
@@ -41,15 +58,10 @@ aside{
     width: 27%;
     margin: 3% 3%;
     float: right;
-    background: orange;
+    background:  #F6A024;
     color: white;
 }
-h1{
-    font-family: 'Oswald', sans-serif;
-}
-h2{
-    font-family: 'Oswald', sans-serif;
-}
+
 #Logo{
     width: 100px;
     float: right;
@@ -87,6 +99,8 @@ h2{
 a{
     text-decoration: none;
     color: white;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
 
 }
 .Menu li{
@@ -96,8 +110,8 @@ a{
     margin: 20px 40px;
     text-align: center;
     padding: 10px;
-    color: white;
-    background: darkblue;
+    color: darkblue;
+    background: white;
     
     
     
@@ -110,7 +124,7 @@ a{
     list-style: none;
     padding: 12px;
     margin: 5%;
-    background: blue;
+    background: darkblue;
     color: white;
     border: solid 1px white;
     
